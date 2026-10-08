@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "I Still",
+      "hasCanvas": true,
+      "bodyTextLen": 150,
+      "bodyTextHash": "ea7dbc32693ba3abad8783175d0b11fb3c2ba59fe5b803530f484f57522eecc0",
+      "bodyTextPrefix": "A GAME OF STILLNESS I Still When the eye looks, do not move. Col",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "I Still",
+      "hasCanvas": true,
+      "bodyTextLen": 150,
+      "bodyTextHash": "ea7dbc32693ba3abad8783175d0b11fb3c2ba59fe5b803530f484f57522eecc0",
+      "bodyTextPrefix": "A GAME OF STILLNESS I Still When the eye looks, do not move. Col",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

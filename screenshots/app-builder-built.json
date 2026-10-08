@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "I Still",
+      "hasCanvas": true,
+      "bodyTextLen": 145,
+      "bodyTextHash": "41cdcf9a68d9debe51a5abb6a15e54f5b6eb809d12b44456d419c9056b90a55e",
+      "bodyTextPrefix": "A GAME OF STILLNESS I Still When he looks, do not move. Collect ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "I Still",
+      "hasCanvas": true,
+      "bodyTextLen": 145,
+      "bodyTextHash": "41cdcf9a68d9debe51a5abb6a15e54f5b6eb809d12b44456d419c9056b90a55e",
+      "bodyTextPrefix": "A GAME OF STILLNESS I Still When he looks, do not move. Collect ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text replaced (similar length, page start changed)",
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}
